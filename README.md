@@ -1,4 +1,8 @@
-![](repo/ipwndfu.png)
+The Exploit Code has been copied from the Github Repo:https://github.com/axi0mX/ipwndfu
+
+This Genius Guy can be found on twitter:https://twitter.com/axi0mX/status/1177542201670168576
+
+
 # Open-source jailbreaking tool for many iOS devices
 
 
